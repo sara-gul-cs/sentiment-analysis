@@ -26,7 +26,7 @@ structure, and support.
 
 See `confusion_matrix.png` for the visual breakdown.
 
-## Important limitation (honest note)
+## Important limitation 
 The perfect score above reflects the small, templated nature of this dataset
 rather than a production-ready model. When tested on feedback using vocabulary
 **not** present in training (e.g. "best experience of my life" instead of
